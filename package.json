@@ -16,6 +16,10 @@
       {
         "command": "ai-test-generator.helloWorld",
         "title": "Hello World"
+      },
+      {
+        "command": "ai-test-generator.generateTests",
+        "title": "Generate Tests"
       }
     ]
   },
